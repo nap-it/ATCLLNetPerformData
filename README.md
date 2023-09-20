@@ -15,9 +15,6 @@ This data is divided into two datasets, one for ITS-G5 and another for cellular.
 ## Funding
 
 
-## Cite this dataset
-
-
 ## Contact
 If you have any questions.
 
