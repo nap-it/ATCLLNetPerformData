@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Dias"
+  given-names: "Duarte" 
+- family-names: "Rito"
+  given-names: "Pedro"
+- family-names: "Luís"
+  given-names: "Miguel"
+- family-names: "Sargento"
+  given-names: "Susana"  
+title: "ATCLL Network Performance Data"
+date-released: 2023
+url: "https://github.com/nap-it/ATCLLNetPerformData"
