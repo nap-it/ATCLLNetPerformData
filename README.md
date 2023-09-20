@@ -1,6 +1,6 @@
 # ATCLL Network Performance Data
 
-This repository contains data acquired in both a real outdoor ITS-G5 network and a commercial cellular 5G network. This data made it possible to carry out the work entitled **"Machine Learning in the management of VANETs"**. The ITS-G5 network is composed of eleven stationary nodes and eight mobile nodes. The cellular network is composed of commercial cell towers and one mobile node. The architecture of the performed tests is described in the following figure.
+This repository contains data acquired in both a real outdoor ITS-G5 network and a commercial cellular 5G network in the city of Aveiro. This data made it possible to carry out the work entitled **"Machine Learning in the management of VANETs"**. The ITS-G5 network is composed of eleven stationary nodes and eight mobile nodes. The cellular network is composed of commercial cell towers and one mobile node. The architecture of the performed tests is described in the following figure.
 
 ![alt text](https://github.com/nap-it/ATCLLNetPerformData/blob/main/setup.jpg)
 
