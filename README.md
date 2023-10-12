@@ -13,7 +13,7 @@ This data is divided into two datasets, one for ITS-G5 and another for cellular.
 - **Susana Sargento** - Instituto de Telecomunicações (IT) and Universidade de Aveiro (UA)
 
 ## Funding
-
+This work was supported by the European Regional Development Fund (FEDER), through the Competitiveness and Internationalization Operational Programme (COMPETE 2020) of the Portugal 2020 framework [Project IMMINENCE with Nr. 112314 (POCI-01-0247-FEDER-112314)] and by FCT/MEC through national funds under the project PTDC/EEI-COM/5284/2020.
 
 ## Contact
 If you have any questions.
