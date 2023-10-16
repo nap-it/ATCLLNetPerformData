@@ -11,7 +11,7 @@ This data is divided into two datasets, one for ITS-G5 and another for cellular.
 - **Rodrigo Rosmaninho** - Instituto de Telecomunicações (IT)
 - **Andreia Figueiredo** - Instituto de Telecomunicações (IT) and Universidade de Aveiro (UA)
 - **Pedro Almeida** - Instituto de Telecomunicações (IT)
-- **Miguel Luís** - Instituto de Telecomunicações (IT) and Universidade de Lisboa (ULisboa)
+- **Miguel Luís** - Instituto de Telecomunicações (IT) and Instituto Superior Técnico (IST) 
 - **Pedro Rito** - Instituto de Telecomunicações (IT)
 - **Duarte Raposo** - Instituto de Telecomunicações (IT) 
 - **Susana Sargento** - Instituto de Telecomunicações (IT) and Universidade de Aveiro (UA)
