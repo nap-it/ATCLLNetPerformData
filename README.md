@@ -8,8 +8,12 @@ This data is divided into two datasets, one for ITS-G5 and another for cellular.
 
 ## Authors
 - **Duarte Dias** - Instituto de Telecomunicações (IT)
+- **Rodrigo Rosmaninho** - Instituto de Telecomunicações (IT)
+- **Andreia Figueiredo** - Instituto de Telecomunicações (IT) and Universidade de Aveiro (UA)
+- **Pedro Almeida** - Instituto de Telecomunicações (IT)
+- **Miguel Luís** - Instituto de Telecomunicações (IT) and Universidade de Lisboa (ULisboa)
 - **Pedro Rito** - Instituto de Telecomunicações (IT)
-- **Miguel Luís** - Instituto de Telecomunicações (IT) and Instituto Superior de Engenharia Lisboa (ISEL)
+- **Duarte Raposo** - Instituto de Telecomunicações (IT) 
 - **Susana Sargento** - Instituto de Telecomunicações (IT) and Universidade de Aveiro (UA)
 
 ## Funding
