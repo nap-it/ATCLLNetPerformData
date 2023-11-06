@@ -4,7 +4,7 @@ This repository contains data acquired in both a real outdoor ITS-G5 network and
 
 ![alt text](https://github.com/nap-it/ATCLLNetPerformData/blob/main/setup.jpg)
 
-This data is divided into two datasets, one for ITS-G5 and another for cellular. These datasets include mobile and stationary node identification information, test location information, signal strength information and network performance information. Both datasets only include information relating to periods of connectivity and periods of non-connectivity are not present, as they have a low relevance.
+This data is divided into two datasets, one for wlan (ETSI ITS-G5) and another for cellular (LTE/5G). These datasets include mobile and stationary node identification information, test location information, signal strength information and network performance information. Both datasets only include information relating to periods of connectivity and periods of non-connectivity are not present, as they have a low relevance.
 
 ## Authors
 - **Duarte Dias** - Instituto de Telecomunicações (IT)
